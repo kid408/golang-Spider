@@ -1,0 +1,4 @@
+# golang-Spider
+golang爬虫，从菜鸟教程，W3cSchool等在线学习网站抓取教程得到html格式的电子书
+
+在main函数中设置入口url,即第一页的地址和生成的html文件的文件名
